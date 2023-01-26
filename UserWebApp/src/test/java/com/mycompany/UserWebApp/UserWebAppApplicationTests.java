@@ -1,10 +1,10 @@
-package com.example.usersCrud;
+package com.mycompany.UserWebApp;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class UsersCrudApplicationTests {
+class UserWebAppApplicationTests {
 
 	@Test
 	void contextLoads() {

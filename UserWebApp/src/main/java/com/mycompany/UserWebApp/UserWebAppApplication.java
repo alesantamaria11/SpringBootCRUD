@@ -1,13 +1,14 @@
-package com.example.usersCrud;
-
+package com.mycompany.UserWebApp;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class UsersCrudApplication {
+public class UserWebAppApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(UsersCrudApplication.class, args);
+		SpringApplication.run(UserWebAppApplication.class, args);
+
+		System.out.println("Holaaa");
 	}
 
 }
