@@ -7,8 +7,6 @@ public class UserWebAppApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(UserWebAppApplication.class, args);
-
-		System.out.println("Holaaa");
 	}
 
 }
