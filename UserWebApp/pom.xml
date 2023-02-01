@@ -48,7 +48,7 @@
 			<scope>test</scope>
 		</dependency>
 
-		//Dependencias de bootstrap
+
 		<dependency>
 			<groupId>org.webjars</groupId>
 			<artifactId>bootstrap</artifactId>
